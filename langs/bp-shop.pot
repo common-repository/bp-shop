@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Shop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-17 01:29+0200\n"
+"PO-Revision-Date: 2011-04-17 01:29+0200\n"
+"Last-Translator: slaFFik <slaffik@list.ru>\n"
+"Language-Team: slaFFik <slaffik@list.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: W:\\_server\\home\\ovi\\shop\\wp-content\\plugins\\bp-shop\n"
+"X-Poedit-Language: ENGLISH\n"
+"X-Poedit-SearchPath-0: W:\\_server\\home\\ovi\\shop\\wp-content\\plugins\\bp-shop\n"
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:19
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:60
+msgid "BP Shop"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:31
+msgid "Dev print_var(bp_shop)"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:32
+msgid "Switchers"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:35
+msgid "Copy/Paste later"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:60
+msgid "Create a shop for your users"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:76
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:107
+msgid "Some radios buttons"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:108
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:130
+msgid "Enable"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:109
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:131
+msgid "Disable"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:113
+msgid "Some checkboxes"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:114
+msgid "One"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:115
+msgid "Two"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:116
+msgid "Three"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:120
+msgid "Input filed"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:121
+msgid "Some description"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:129
+msgid "Do you want to make users stores available for all?"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:135
+msgid "Which slug do you prefer to use across the site (it's used in links)?"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:136
+msgid "store"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:137
+msgid "shop"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-admin.php:138
+msgid "market"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-core.php:61
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-core.php:105
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:151
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:223
+msgid "Statistics"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-core.php:70
+msgid "My goods"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-core.php:79
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-core.php:107
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:171
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:237
+msgid "WishList"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-core.php:88
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-core.php:108
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:182
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:244
+msgid "Settings"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-core.php:106
+msgid "My Goods"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:73
+msgid "Users Shops"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:119
+msgid "Search Shops..."
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:136
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:216
+msgid "Shop"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:161
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:230
+msgid "Goods"
+msgstr ""
+
+#: W:\_server\home\ovi\shop\wp-content\plugins\bp-shop/bp-shop-loader.php:262
+msgid "My Shop"
+msgstr ""
+
